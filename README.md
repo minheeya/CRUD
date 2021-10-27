@@ -12,5 +12,7 @@
 ----------------
 - 로그인 => 기존 장고 기능 활용
 - endpoint: localhost:8000/user/api_auth/login/?next=/blog/
+----------------
+가상환경 venv의 bin/activate활성화 해야 함
 
 
